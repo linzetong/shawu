@@ -1,0 +1,4 @@
+com\czxy\yycg\config\SpringConfiguration.class
+com\czxy\yycg\config\WebInitializer.class
+com\czxy\yycg\config\MyBatisConfiguration.class
+com\czxy\yycg\config\MVCConfiguration.class
