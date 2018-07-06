@@ -1,4 +1,7 @@
+com\czxy\yycg\ypml\web\vo\YpxxVo.class
 com\czxy\yycg\config\SpringConfiguration.class
+com\czxy\yycg\user\web\vo\SysUserVo.class
 com\czxy\yycg\config\WebInitializer.class
+com\czxy\yycg\user\web\controller\SysUserController.class
 com\czxy\yycg\config\MyBatisConfiguration.class
 com\czxy\yycg\config\MVCConfiguration.class
